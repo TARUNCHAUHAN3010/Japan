@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 80px 20px;
+  margin-bottom: 0;
+}
+.section {
+  padding: 60px 0;
+}
+.section-heading {
+  margin-bottom: 40px;
+}
+.section-content {
+  font-size: 18px;
+}
